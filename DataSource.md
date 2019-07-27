@@ -1,9 +1,9 @@
 #DataSource
 
-http://jmcauley.ucsd.edu/data/amazon/
-http://jmcauley.ucsd.edu/data/amazon/qa/index.html
-https://s3.amazonaws.com/amazon-reviews-pds/readme.html
-https://s3.amazonaws.com/amazon-reviews-pds/tsv/
+1) http://jmcauley.ucsd.edu/data/amazon/
+2) http://jmcauley.ucsd.edu/data/amazon/qa/index.html
+3) https://s3.amazonaws.com/amazon-reviews-pds/readme.html
+4) https://s3.amazonaws.com/amazon-reviews-pds/tsv/
 
 # Citations
 
