@@ -1,10 +1,10 @@
 # NLP
 
-Objectives:
+# Objectives:
   (Initial Phase) Understand Product Reviews 
-    >  What are the positives
+    > What are the positives
     > What are the negatives
- Requirements:
+# Requirements:
   1) Data Processing (what is the amount)
   2) Data Exploratory & Words Cloud
   3) Sentimental Analysis
