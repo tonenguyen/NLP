@@ -1,7 +1,8 @@
 # NLP
 
 # Objectives:
-  (Initial Phase) Understand Product Reviews 
+  (Initial Phase) Understand & Analyzing Reviews.
+  Focus on Products.
     a) What are the positives
     b) What are the negatives
 # Requirements:
@@ -14,3 +15,4 @@
         a) negative
   5) Bias Analysis if time permitted.      
       
+# Potential:
