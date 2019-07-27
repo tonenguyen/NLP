@@ -6,13 +6,14 @@
     a) What are the positives
     b) What are the negatives
 # Requirements:
-  1) Data Processing (what is the amount)
+  1) Data Processing 
   2) Data Exploratory & Words Cloud
   3) Sentimental Analysis
   4) ML into classification
       What are the dimensions of product 
         a) positive
         a) negative
-  5) Bias Analysis if time permitted.      
+  5) Do we have any correlation based on the product reviews with additional purchases
+  6) Bias Analysis if time permitted.      
       
 # Potential:
