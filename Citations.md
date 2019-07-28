@@ -1,9 +1,9 @@
 
-#NLTK
+# NLTK
 
 Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
 
-#Amazon Data Sources 
+# Amazon Data Sources 
 
 Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering R. He, J. McAuley WWW, 2016
 
