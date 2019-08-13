@@ -1,9 +1,10 @@
 RNN versus TextBlob
 
-tn, fp, fn, tp   
-
 
 #rating = lambda x: 1 if x > 2.0 else 0
+
+tn, fp, fn, tp   
+
 
 (0, 46, 0, 954) RNN
 (0, 42, 0, 958) RNN
@@ -11,18 +12,30 @@ tn, fp, fn, tp
 (14, 28, 57, 901) TextBlob
 (14, 32, 46, 908) TextBlob
 
-#rating = lambda x: 1 if x >= 3.0 else 0
+
+
+#rating = lambda x: 1 if x > 3.0 else 0
+
+tn, fp, fn, tp   
 
 (14, 121, 63, 802) RNN
 (33, 102, 34, 831) TextBlob
 
 
-
+#rating = lambda x: 1 if x > 2.0 else 0
 
 (4, 38, 5, 953) CNN
 
 Large Data Set 134476
 
+tn, fp, fn, tp 
+
 (31, 30, 18, 921) CNN
 
+(35, 26, 25, 914) RNN
+
 (21, 40, 93, 846) TextBlob
+
+
+
+
