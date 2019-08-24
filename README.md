@@ -6,9 +6,9 @@
     a) What are the positives
     b) What are the negatives
 # Requirements:
-  1) Data Processing 
+  1) Data Processing - completed
   2) Data Exploratory & Words Cloud
-  3) Sentimental Analysis
+  3) Sentimental Analysis - work in progress
   4) ML into classification
       What are the dimensions of product 
         a) positive
