@@ -1,0 +1,53 @@
+Data format
+
+Product Reviews
+
+{'reviewerID': 'A37KNOJXE2FU6',
+'asin': '104800001X',
+'reviewerName': 'Joseph Yonke II',
+'helpful': [0, 0],
+'reviewText': 'I wanted something this small to mount on the back of filagree wood piece I cut. They could then be mounted on refrigerators. Works well. Should be able to remove the pieces from the refrig without breaking yet will hold well.',
+'overall': 5.0,
+'summary': 'Very small and thin',
+'unixReviewTime': 1363132800,
+'reviewTime': '03 13, 2013'}
+
+Q & A answers for the product:
+
+{'asin': 'B000068NZC', 'questions': [{'questionType': 'open-ended', 'askerID': u'A2KCJ8LMT8QSO3', 
+'questionTime': u'February 23, 2014', 'questionText': u'how long is this cord? the pictures looks like its only a couple inches?', 
+'answers': [{'answerText': u'I took a photo: <http://imgur.com/G48f1C4>I bought the 1\' version. 
+You can see that the entire thing is just over 12" long. Around 8.5" of that is cord.', 
+'answererID': u'AIT6K35B46C2N', 'answerTime': u'February 23, 2014', 'helpful': [3, 3]}, 
+{'answerText': u'On the same ordering page you can select cord lengths of 1 foot, 5 feet or 15 feet, all at very reasonable prices.', 
+'answererID': u'A1TMEAYAX4PM71', 'answerTime': u'February 23, 2014', 'helpful': [0, 0]}, 
+{'answerText': u"It's over a foot long. works ok.", 
+'answererID': u'A1JFFCTVGNMDGW', 'answerTime': u'February 23, 2014', 'helpful': [0, 0]}]}, 
+{'questionType': 'open-ended', 'askerID': u'AMCLSJ0L9NNFH', 
+'questionTime': u'April 7, 2015', 'questionText': u'Can I use this to connect a professional mic to a laptop through a soundcard: 
+"Creative Sound Blaster Omni". I mean would soundcard work as a preamp?', 
+'answers': [{'answerText': u'Does the mic need phantom (external) power?   
+If not, then if you hooked it up as a mic, (in contrast to aux input) it should work fine.', 
+'answererID': u'A2SFE5E2QJBU16', 'answerTime': u'April 7, 2015', 'helpful': [0, 0]}, 
+{'answerText': u'I would think that would sure be a possibility. All it is is a conversion cable. 
+I use mine to do just that going into a mixer or directly to my DSLR.', 
+'answererID': u'A1HX5KASEWXXS4', 'answerTime': u'April 7, 2015', 'helpful': [0, 0]}]}, 
+{'questionType': 'open-ended', 'askerID': u'A1MVI3AVBTMHRE', 
+'questionTime': u'May 20, 2014', 'questionText': u'Will this work to connect a RODE NTG2 shotgun mic to a standard Nixon DSLR?', 
+'answers': [{'answerText': u'it should work', 
+'answererID': u'A1P2QKP44CC746', 'answerTime': u'May 20, 2014', 'helpful': [0, 0]}, 
+{'answerText': u'Sorry, this is an issue that can only be determined by looking at the equipment you mentioned.', 
+'answererID': u'A1TMEAYAX4PM71', 'answerTime': u'May 20, 2014', 'helpful': [0, 0]}]}, 
+{'questionType': 'open-ended', 'askerID': u'A35LRTJHC1N7BW', 'questionTime': u'July 2, 2013', 
+'questionText': u'Would a sennheiser HMD280-13 and this adapter work in a regular computer 3.5mm mic port for recording?', 
+'answers': [{'answerText': u"I'm not familiar with that headset but if it terminates to an XLR then yes, 
+this should take that and convert it to a plug that would fit in a 3.5mm mic port.
+I'm not sure if the cable would let you HEAR anything, but I've been using it to come out of a shotgun mic and into my camera 
+and its worked great.", 
+'answererID': u'A3O5IYHNPIF3CL', 'answerTime': u'July 3, 2013', 'helpful': [0, 0]}, 
+{'answerText': u'Sorry for the long delay. I am not familiar with Sennhe HMD280-13. My Sennhe was older.
+Say around 1999/2000.Could not get my Sennhe wireless to work on my Vixia Camera BUT the HOSA XLR adapter works great using my shot gun mike and XLR cables.', 
+'answererID': u'A1JFFCTVGNMDGW', 'answerTime': u'July 8, 2013', 'helpful': [0, 0]}, 
+{'answerText': u'I am not 100% sure. I purchased this adapter to be used with a microphone not a professional microphone headset. 
+This headset looks like something I used during film school for live studio production communication. Sorry I could not be of more help.Greg', 
+'answererID': u'A50FD3G0CQXZ5', 'answerTime': u'July 9, 2013', 'helpful': [0, 0]}]}]}
