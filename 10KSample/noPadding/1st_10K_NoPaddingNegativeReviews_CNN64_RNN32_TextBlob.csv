@@ -1,0 +1,5 @@
+,tn,fp,fn,tp
+CNN,16,96,13,2248
+RNN,10,102,23,2238
+TextBlob,34,78,113,2148
+ActualRating,112,0,0,2261
